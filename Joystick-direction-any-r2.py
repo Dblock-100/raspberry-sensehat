@@ -46,4 +46,4 @@ refresh()
 pause()
 
 
-#Note that the direction_any event is always called after all other events making it an ideal hook for things like display refreshing (as in the example above).
+#Note that the direction_any event is always called after all other events making it an ideal hook for things like display refreshing (as in the example above)
